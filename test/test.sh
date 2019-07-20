@@ -34,4 +34,4 @@ $DOCKER_CMD run \
 	    -e COMMIT=$COMMIT \
 	    test-container \
 	    sh -c "export PYTHONPATH=\$PYTHONPATH:\$PWD/test ; python test/$@"
-#zone1
+#zone12
